@@ -25,7 +25,7 @@ Projeto realizado como exercício de aprendizado durante o Stage 06 da Trilha Ex
 - Classes e objetos;
 - Programação funcional - Imutabilidade;
 - Uso do localStotage do Browser;
-- Java Script Assíncrono e promises (async/ await);
+- JavaScript Assíncrono e promises (async/ await);
 - Fluxo da aplicação (Try/ Catch/ Throw);
 
 ## Passo seguinte - 🔥 Caminhando sozinho 🔥
