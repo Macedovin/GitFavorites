@@ -1,4 +1,4 @@
-# GitFav <img src="https://github.com/Macedovin/GitFavorites/blob/master/assets/Git_fav-ico.ico" width=30px>
+# GitFav <img src="https://github.com/Macedovin/GitFavorites/blob/main/assets/Git_fav-ico.ico" width=30px>
 
 Apllicação com a qual se pode favoritar usuários do GitHub, através de uma breve pesquisa pelo nome de usuário, que retornará o perfil do usuário e seu nome, o número de repositórios e o número de seguidores,deixando-os listados para futuro acesso.
 
@@ -7,7 +7,7 @@ Apllicação com a qual se pode favoritar usuários do GitHub, através de uma b
 Projeto realizado como exercício de aprendizado durante o Stage 06 da Trilha Explorer da Rocketseat.
 
 <h1 align="center">
-    <img src="https://github.com/Macedovin/GitFavorites/blob/master/Evolu%C3%A7%C3%A3o%20Rocket%20-%20GitFav.gif">
+    <img src="https://github.com/Macedovin/GitFavorites/blob/main/Evolu%C3%A7%C3%A3o%20Rocket%20-%20GitFav.gif">
 </h1>
 
 ### O que foi praticado
@@ -43,18 +43,17 @@ Visando ME DESAFIAR:
 
     <details>
 
-      <summary>
-        <a href="https://www.figma.com/file/i0ekwHTbyWPorfjcF5w4xf/%5BDesafios-Explorer%5D-My---GitFav?node-id=0%3A1" target="_blank">
-          Imagem e projeto aqui
-         </a>
-      </summary>
-      <br/>
-          <a><img src="https://github.com/Macedovin/GitFavorites/blob/master/Git-Fav-FIGMA.png" width=450px/></a>
-
+    <summary>
+    <a href="https://www.figma.com/file/i0ekwHTbyWPorfjcF5w4xf/%5BDesafios-Explorer%5D-My---GitFav?node-id=0%3A1" target="_blank">
+    Imagem e projeto aqui
+    </a>
+    </summary>
+    <br/>
+    <a><img src="https://github.com/Macedovin/GitFavorites/blob/main/Git-Fav-FIGMA.png" width=450px/></a>
 
     </details>
     
-  --- 
+ --- 
 
 
 Projeto criado pela [Rocketseat](https://github.com/Rocketseat) e desenvolvido por [Vinicius&nbsp;Macedo](https://github.com/Macedovin).
