@@ -25,7 +25,7 @@ Projeto realizado como exercício de aprendizado durante o Stage 06 da Trilha Ex
 - Classes e objetos;
 - Programação funcional - Imutabilidade;
 - Uso do localStotage do Browser;
-- Java Script Assíncrono e promises (async/ await);
+- JavaScript Assíncrono e promises (async/ await);
 - Fluxo da aplicação (Try/ Catch/ Throw);
 
 ## Passo seguinte - 🔥 Caminhando sozinho 🔥
@@ -51,8 +51,10 @@ Visando ME DESAFIAR:
       <br/>
           <a><img src="https://github.com/Macedovin/GitFavorites/blob/master/Git-Fav-FIGMA.png" width=450px/></a>
 
+
     </details>
     
-  ---
+  --- 
+
 
 Projeto criado pela [Rocketseat](https://github.com/Rocketseat) e desenvolvido por [Vinicius&nbsp;Macedo](https://github.com/Macedovin).
