@@ -73,9 +73,18 @@ export class FavoritesView extends Favorites {
   }
 
   favoriteAnUser() {
+    /*     
     const { value } = this.root.querySelector('.search input')
 
-    this.add(value)
+    this.add(value) 
+
+    ${value} = ''
+    */
+    const input = this.root.querySelector('.search input')
+
+    this.add(input.value)
+
+    input.value = ''
   }
 
   // Registrando eventos do botão de pesquisa
