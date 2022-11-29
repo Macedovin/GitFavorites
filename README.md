@@ -91,8 +91,8 @@ To reach this layout, based on the original project of _Daniel Duarte_, provided
 - Keyboard navigation -> Press ENTER to favorite the ones you like most;
 - Table display -> All the choosen repositories will be disposed in a list;
 - Stylized scrollbar (Chrome and Mozilla Firefox) -> Browse the list;
-- Remove button -> Remove the users you wat;
-- Add tem again to the list at any time.
+- Remove button -> Remove the users you want;
+- Add them again to the list at any time.
 
 ## Publication
 
