@@ -23,8 +23,6 @@
 
 ## About
 
-<br/>
-
 GitFav is an application wich you can favorite GitHub users, after a briefly search by their username.
 
 Project developed as an apprentice exercise during Stage 06 of Rocketseat's learning "Trilha Explorer".
